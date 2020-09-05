@@ -1,5 +1,4 @@
-var ss = SpreadsheetApp.openByUrl("ใส่URL_google sheets");//"https://docs.google.com/spreadsheets/d/1Jk8ASdUeL-x8Y1F5_i08BTrFhyBZLkJ7yJK9y3-fDG8/edit"
-var sheet = ss.getSheetByName("ใส่ชื่อแผ่น");//แผ่น10
+var ss = SpreadsheetApp.openByUrl("ใส่URL_google sheets");
       var result1 = {
     "fulfillmentMessages": [
   {
